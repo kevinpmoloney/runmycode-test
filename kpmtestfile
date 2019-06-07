@@ -1,0 +1,9 @@
+xa=7
+ya=3
+xb=9
+yb=1
+xc=3
+yc=6
+def slope(x1,y1,x2,y2):
+  return (y2-y1)/(x2-x1)
+print (slope(xa,ya,xb,yb)
